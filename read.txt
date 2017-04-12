@@ -1,0 +1,4 @@
+A basic pong game that works.
+
+Source code is badly organized but gets the job done.
+Further optimization is possible but not necessarily needed.
